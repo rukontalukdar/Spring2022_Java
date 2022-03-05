@@ -6,6 +6,5 @@ public class testing {
         System.out.println(myAge);
 
 
-
     }
 }
