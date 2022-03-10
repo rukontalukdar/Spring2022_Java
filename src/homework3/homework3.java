@@ -3,15 +3,17 @@ package homework3;
 public class homework3 {
     public static void main(String[] args) {
         /**
-         * Homeowork 3. Covertining
+         * Homework 3. Covertining
          * C -> F
          * C -> K
          *
          * F -> C
          * F -> K
          *
+         *
          * K -> C
          * K -> F
+         *
          *
          */
 
