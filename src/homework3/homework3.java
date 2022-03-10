@@ -10,10 +10,8 @@ public class homework3 {
          * F -> C
          * F -> K
          *
-         *
          * K -> C
          * K -> F
-         *
          *
          */
 
